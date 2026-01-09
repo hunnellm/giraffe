@@ -16,7 +16,10 @@ Feature Extraction</subtitle>
     <xi:include href="./ch-home.ptx" />
     <xi:include href="./ch-travel.ptx" />
     <xi:include href="./ch-app.ptx" />
-
+      <image source="/giraffe.png" width="40%">
+    <shortdescription></shortdescription>
+    
+  </image>
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
