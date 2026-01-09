@@ -1,13 +1,31 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "my-great-book",
+  "id": "front-colophon",
   "level": "1",
-  "url": "#my-great-book",
-  "type": "Book",
+  "url": "front-colophon.html",
+  "type": "Colophon",
   "number": "",
-  "title": "GIRAFFE",
-  "body": " GIRAFFE  Graph Inference and Relational Analysis for Frameworks & Feature Extraction      About GIRAFFE   The GIRAFFE Workshop is a week-long, collaborative event held at WSSU with the goal of fostering original research with undergraduate students in the mathematical sciences. The program is focused on mentorship, hands-on learning, and the development of research skills in the mathematical sciences. A particular emphasis is placed on combinatorics and data science for their real-world applications and low start-up cost for students with a wide range of mathematical maturity. The workshop employs a model proven effective in a variety of settings supported by the mathematical science institutes, including the American Institute of Mathematics and SLMath.      Travel  Text of section.    Typical Daily Schedule      "
+  "title": "Colophon",
+  "body": "  "
+},
+{
+  "id": "sec-section-name",
+  "level": "1",
+  "url": "sec-section-name.html",
+  "type": "Section",
+  "number": "1.1",
+  "title": "Section Title",
+  "body": " Section Title  Text of section.  "
+},
+{
+  "id": "backmatter-2",
+  "level": "1",
+  "url": "backmatter-2.html",
+  "type": "Colophon",
+  "number": "",
+  "title": "Colophon",
+  "body": " This book was authored in PreTeXt .  "
 }
 ]
 
