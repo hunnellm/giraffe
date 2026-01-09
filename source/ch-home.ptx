@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chapter-home" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Home</title>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+  <image source="/giraffe.png" width="40%">
+    <shortdescription></shortdescription>
+    
+  </image>
+  <!-- include sections -->
+  <xi:include href="sec-section-name.ptx" />
+
+</chapter>

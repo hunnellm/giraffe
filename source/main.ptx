@@ -11,16 +11,11 @@ Feature Extraction</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
-    <p>  <figure xml:id="big_logo">
-        <mediaobject>
-          <imageobject>
-            <imagedata fileref="images/giraffe_logo.png" contentwidth="4in"/>
-          </imageobject>
-        </mediaobject>
-        <caption>bbhkk</caption>
-      </figure></p>
+    
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
+    <xi:include href="./ch-home.ptx" />
+    <xi:include href="./ch-travel.ptx" />
+    <xi:include href="./ch-app.ptx" />
 
 
     <!-- Include backmatter -->
