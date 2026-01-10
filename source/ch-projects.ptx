@@ -1,21 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="ch-projects" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="ch-projects" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Project Descriptions</title>
 
   <introduction>
     <p> Below you will find the project descriptions. In your application, you will be asked to rank your level of interest in each of the projects. Faculty members and the students from their institution will paired together with a project before the workshop begins.  Please email Mark Hunnell (hunnellm@wssu.edu) with any questions.</p>
   </introduction>
+  <subsection xml:id="sec-graph-theory-projects">
+  <title>Graph Theory Projects</title>
+  
+  
+    <dl>
+      <li>>
+        <title>Project 1: Network Analysis of Social Media Data</title>
+        <p> In this project, students will analyze social media data to identify patterns and trends in user behavior. Using graph theory techniques, students will construct and analyze networks representing interactions between users, posts, and topics. The goal is to uncover insights into how information spreads on social media platforms and to identify influential users within these networks.</p>
+      </li>
+      <li>
+        <title>Project 2: Graph-Based Machine Learning for Image Classification</title>
+        <p> This project focuses on applying graph-based machine learning techniques to image classification tasks. Students will explore how to represent images as graphs and use graph neural networks to classify images based on their features. The project aims to improve the accuracy of image classification models by leveraging the relational structure of image data.</p>
+      </li>
+      </dl>
+      </subsection>
+      <subsection xml:id="sec-data-science-projects">
+        <title>Data Science Projects</title>
+        <dl>
+      <li>
+        <title>Project 3: Combinatorial Optimization in Supply Chain Networks</title>
+        <p> In this project, students will investigate combinatorial optimization problems within supply chain networks. They will model supply chains as graphs and apply optimization algorithms to improve efficiency in logistics, inventory management, and distribution. The objective is to develop strategies that minimize costs while maximizing service levels in supply chain operations.</p>
+      </li>
+      <li>
+        
+          <title>Project 4: Analyzing Biological Networks Using Graph Theory</title>
+          <p>In this project, students will analyze biological networks, such as protein-protein interaction networks or gene regulatory networks, using graph theory techniques. The goal is to identify key components and interactions within these networks that contribute to biological functions and processes. Students will apply various graph algorithms to uncover insights into the structure and dynamics of biological systems.
+        </p>
+      </li>
+    </dl>
+      </subsection>
+      
 
-  <section>
-    <title>Fault Tolerant Zero Forcing</title>
-    
-    <p>
-      Faculty Mentor: Mark Hunnell (WSSU)
-    </p>
 
-
-  </section>
+  
   
 
-</chapter>
+</section>

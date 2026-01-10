@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="ch-chapter-home" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>reGIRAFFE</title>
-
+  <title>About WSSU</title>
+<p>
+  Winston-Salem State University is a bold, vibrant and diverse academic community that fosters the creative thinking, analytical problem-solving, and depth of character graduates need to transform themselves and their world. These values embody our motto, “Enter to Learn. Depart to Serve."
+</p>
+<p>
+Founded in 1892, WSSU enjoys a distinguished reputation as a historically black constituent institution of the University of North Carolina that offers a rich curriculum rooted in a high-quality, liberal education. Our undergraduate and graduate students can choose from many innovative areas of study designed to equip them with the skills and knowledge needed to develop creative solutions to today’s—and tomorrow’s—complex problems.
+</p>
+<p>
+It all starts here.
+</p>
   
-    <p>
-      nevfjg
-    </p>
-      <image source="/giraffe.png" width="60%"></image>
     
 
 </section>

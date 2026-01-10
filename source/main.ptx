@@ -8,12 +8,15 @@
     <title>GIRAFFE</title>
     <subtitle>Graph Inference and Relational Analysis for Frameworks and
 Feature Extraction</subtitle>
-<section xml:id="ch-chapter-home" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="ch-chapter-main" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>GIRAFFE - Undergraduate Research Workshop in Graph Theory and Data Science</title>
+  <introduction>
+    <image source="/giraffe.png" width="60%"/>
+  </introduction>
 <p>
   <dl>
     <li>
-      <title>About GIRAFFE</title>
+      <title>Overview</title>
       <p>
         This workshop seeks to engage undergraduate scholars, along with their faculty mentors, in an intensive week-long collaboration with students and faculty from other institutions performing original research in the areas of combinatorics and data science.  WSSU students and faculty will compose the largest contingent of participants, while participants from five other institutions will be selected through an application process, with applications hosted on MathPragrams.org.
       </p>
@@ -21,7 +24,12 @@ Feature Extraction</subtitle>
     <li>
       <title>Logistical Information</title>
       <p>
-        The workshop will be held on the campus of Winston-Salem State University from Sunday, June 16, 2024 through Saturday, June 22, 2024. Participants will be housed in university residence halls, and meals will be provided in campus dining facilities.  A detailed schedule of events will be provided to accepted participants prior to the start of the workshop.
+        The workshop will be held on the campus of Winston-Salem State University from Sunday, June 16, 2026 through Saturday, June 22, 2026. Hotel reservations will be made for all participants; faculty will have individual rooms and students will be paired with a roommate prior to arrival.  
+      </p>
+    </li>
+    <li><title>Sample Daily Schedule</title>
+      <p>
+        table here
       </p>
     </li>
     <li>
@@ -33,20 +41,18 @@ Feature Extraction</subtitle>
     <li>
       <p>
         <title>Faculty Contact Information</title>
-        For questions regarding the workshop, please contact Mark Hunnell at hunnellm@wssu.wsu.
+        For questions regarding the workshop, please contact Mark Hunnell at hunnellm@wssu.edu.
       </p>
     </li>
     <li>
       <p>
         <title>Travel Information</title>
-        Participants are responsible for arranging their own travel to and from Winston-Salem, NC.
+        Participants are responsible for arranging their own travel to and from Winston-Salem, NC.  Participants will be reimbursed up to $200.00 for travel expenses upon submission of receipts. If this amount presents a financial hardship, please indicate this in your application.  All other local expenses will be covered by the workshop.
       </p>
     </li>
   </dl>
 </p>
-  <introduction>
-    <image source="/giraffe.png" width="60%"/>
-  </introduction>
+  
   <subsection xml:id="sec-about-giraffe">
     <title>About GIRAFFE</title>
     <p>
@@ -57,19 +63,34 @@ Undergraduate research has long been lauded as an efficacious high impact practi
     </p>
 
 The dual-focus of combinatorics has been chosen strategically, primarily because both subfields possess the following characteristics:
-<ol>
-<li><p>Suitability for Undergraduate Research - Both disciplines require little in the way of prerequisite knowledge in order for students to contribute meaningfully to original research products.  While these areas contain significant mathematical depth, must of the required tools can be learned alongside the research activities, rather than prior to them.  Furthermore, these areas are highly active and growing, and thus position students seeking graduate school opportunities to identify mentors and programs that will advance their post-graduation goals.</p></li>
+<dl>
+<li><title>Suitability for Undergraduate Research</title> <p>Both disciplines require little in the way of prerequisite knowledge in order for students to contribute meaningfully to original research products.  While these areas contain significant mathematical depth, must of the required tools can be learned alongside the research activities, rather than prior to them.  Furthermore, these areas are highly active and growing, and thus position students seeking graduate school opportunities to identify mentors and programs that will advance their post-graduation goals.</p></li>
 
-<li><p>Problems of Interest to Student Populations - Combinatorics is a versatile approach to many real-world problems, from the distribution of power across an electrical grid, to disease transmission, to allocation of resources in war zones.  The diverse set of applications means that students from a variety of educational backgrounds and with a variety of social justice interests can advance knowledge on topics they find important.  Data science is inherently interdisciplinary, and our intent is to have problems focused on healthcare in the greater Forsyth area as well as a marketing problem for students who are interested in the business of sports.</p></li>
-</ol>
+<li><title>Problems of Interest to Student Populations</title> <p>Combinatorics is a versatile approach to many real-world problems, from the distribution of power across an electrical grid, to disease transmission, to allocation of resources in war zones.  The diverse set of applications means that students from a variety of educational backgrounds and with a variety of social justice interests can advance knowledge on topics they find important.  Data science is inherently interdisciplinary, and our intent is to have problems focused on healthcare in the greater Forsyth area as well as a marketing problem for students who are interested in the business of sports.</p></li>
+</dl>
     
   </subsection>
-  <subsection xml:id="sec-log">
+  <subsection xml:id="subsec-outcomes">
+    <title>Intended Outcomes</title>
+    <dl>  
+      <li>
+        <title>Research Products</title>
+        <p>Each research group will produce a written report of their findings, suitable for submission to an undergraduate research journal.  Additionally, each group will prepare a presentation of their work to be delivered at the conclusion of the workshop.</p>
+      </li>
+      <li>
+        <title>Professional Development</title>
+        <p>Participants will gain experience in presenting their research, writing research reports, and working collaboratively in research groups.  Additionally, participants will have the opportunity to network with peers and faculty from other institutions, potentially leading to future research collaborations.</p>
+      </li>
+      <li>
+        <title>Long-Term Engagement</title>
+        <p>We intend for this workshop to be the first of many such events, thereby establishing a tradition of undergraduate research in combinatorics at WSSU and its peer institutions.  We hope that participants will continue to engage in research activities beyond the workshop, either through continued collaboration with their workshop peers or through independent projects.</p>
+      </li>
+    </dl>
     
-    <p>Logistical Information</p>
   </subsection>
+  
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  
 
 </section>
     <!-- Include frontmatter -->
@@ -86,6 +107,8 @@ The dual-focus of combinatorics has been chosen strategically, primarily because
   </image>-->
 
     <!-- Include backmatter -->
+    <xi:include href="./ch-home.ptx" />
+    <xi:include href="./ch-projects.ptx" />
     <xi:include href="./backmatter.ptx" />
 
 </article>
