@@ -16,6 +16,7 @@ Feature Extraction</subtitle>
     <xi:include href="./ch-home.ptx" />
     <xi:include href="./ch-travel.ptx" />
     <xi:include href="./ch-app.ptx" />
+    <xi:include href="./ch-projects.ptx" />
       <image source="/giraffe.png" width="40%">
     <shortdescription></shortdescription>
     
