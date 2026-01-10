@@ -107,8 +107,9 @@ The dual-focus of combinatorics has been chosen strategically, primarily because
   </image>-->
 
     <!-- Include backmatter -->
-    <xi:include href="./ch-home.ptx" />
+    
     <xi:include href="./ch-projects.ptx" />
+    <xi:include href="./ch-home.ptx" />
     <xi:include href="./backmatter.ptx" />
 
 </article>
