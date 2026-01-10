@@ -12,8 +12,8 @@
   <p>
     <dl>
       <li>
-        <title>Project 1: Network Analysis of Social Media Data</title>
-        <p> In this project, students will analyze social media data to identify patterns and trends in user behavior. Using graph theory techniques, students will construct and analyze networks representing interactions between users, posts, and topics. The goal is to uncover insights into how information spreads on social media platforms and to identify influential users within these networks.</p>
+        <title>Project 1: Vertex Fault Tolerant Zero Forcing</title>
+        <p> Zero forcing is a graph coloring process that has applications in control of quantum systems and network monitoring. This project will explore vertex fault tolerance in zero forcing sets, investigating the minimum number of control vertices required to maintain control of the system despite a loss of information at an arbitrary subset of nodes.</p>
       </li>
       <li>
         <title>Project 2: Graph-Based Machine Learning for Image Classification</title>
