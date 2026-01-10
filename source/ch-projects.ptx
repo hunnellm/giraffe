@@ -9,9 +9,9 @@
   <subsection xml:id="sec-graph-theory-projects">
   <title>Graph Theory Projects</title>
   
-  
+  <p>
     <dl>
-      <li>>
+      <li>
         <title>Project 1: Network Analysis of Social Media Data</title>
         <p> In this project, students will analyze social media data to identify patterns and trends in user behavior. Using graph theory techniques, students will construct and analyze networks representing interactions between users, posts, and topics. The goal is to uncover insights into how information spreads on social media platforms and to identify influential users within these networks.</p>
       </li>
@@ -20,9 +20,11 @@
         <p> This project focuses on applying graph-based machine learning techniques to image classification tasks. Students will explore how to represent images as graphs and use graph neural networks to classify images based on their features. The project aims to improve the accuracy of image classification models by leveraging the relational structure of image data.</p>
       </li>
       </dl>
+  </p>
       </subsection>
       <subsection xml:id="sec-data-science-projects">
         <title>Data Science Projects</title>
+        <p>
         <dl>
       <li>
         <title>Project 3: Combinatorial Optimization in Supply Chain Networks</title>
@@ -35,6 +37,7 @@
         </p>
       </li>
     </dl>
+  </p>
       </subsection>
       
 
