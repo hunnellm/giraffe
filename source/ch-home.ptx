@@ -1,35 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="ch-chapter-home" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>About GIRAFFE</title>
+<section xml:id="ch-chapter-home" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>reGIRAFFE</title>
 
-  <introduction>
-    <p> Text before the first section. </p>
-  </introduction>
-  <section xml:id="sec-about-giraffe">
-    <title>About GIRAFFE</title>
+  
     <p>
-      This workshop seeks to engage undergraduate scholars, along with their faculty mentors, in an intensive week-long collaboration with students and faculty from other institutions performing original research in the areas of combinatorics and data science.  WSSU students and faculty will compose the largest contingent of participants, while participants from five other institutions will be selected through an application process, with applications hosted on MathPragrams.org.
-</p>
-    <p>
-Undergraduate research has long been lauded as an efficacious high impact practice, with measurable effect one student engagement, persistence, and post graduate success. GIRAFFE seeks to foster greater community among the undergraduate researchers in the mathematical sciences at WSSU's peer institutions.  Furthermore, the workshop will burnish the reputation of WSSU as a leader in scholastic achievement in the mathematical sciences. Perhaps most importantly, participants will grow their professional network with individuals possessing similar interests, thereby providing the potential for long-term benefits to participants well beyond the end of the workshop.
+      nevfjg
     </p>
-
-The dual-focus of combinatorics has been chosen strategically, primarily because both subfields possess the following characteristics:
-<ol>
-<li><p>Suitability for Undergraduate Research - Both disciplines require little in the way of prerequisite knowledge in order for students to contribute meaningfully to original research products.  While these areas contain significant mathematical depth, must of the required tools can be learned alongside the research activities, rather than prior to them.  Furthermore, these areas are highly active and growing, and thus position students seeking graduate school opportunities to identify mentors and programs that will advance their post-graduation goals.</p></li>
-
-<li><p>Problems of Interest to Student Populations - Combinatorics is a versatile approach to many real-world problems, from the distribution of power across an electrical grid, to disease transmission, to allocation of resources in war zones.  The diverse set of applications means that students from a variety of educational backgrounds and with a variety of social justice interests can advance knowledge on topics they find important.  Data science is inherently interdisciplinary, and our intent is to have problems focused on healthcare in the greater Forsyth area as well as a marketing problem for students who are interested in the business of sports.</p></li>
-</ol>
+      <image source="/giraffe.png" width="60%"></image>
     
-  </section>
-  <section xml:id="sec-log">
-    <image source="/giraffe.png" width="60%">
-    <shortdescription></shortdescription>
-    
-  </image>
-  </section>
-  <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
 
-</chapter>
+</section>
