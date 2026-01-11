@@ -13,7 +13,7 @@
     <dl>
       <li>
         <title>Project 1: Vertex Fault Tolerant Zero Forcing</title>
-        <p> Zero forcing is a graph coloring process that has applications in control of quantum systems and network monitoring. This project will explore vertex fault tolerance in zero forcing sets, investigating the minimum number of control vertices required to maintain control of the system despite a loss of information at an arbitrary subset of nodes.</p>
+        <p> Zero forcing is a graph coloring process that has applications in control of quantum systems and network monitoring. This project will explore vertex fault tolerance in zero forcing sets, investigating the minimum number of control vertices required to maintain control of the system despite a loss of information at an arbitrary subset of nodes. While this variant has undergone an initial study, a large number of open problems remain to be addressed.  This includes derived parameters, such as propagation time and throttling, as well as efficient algorithms for computation of bounds on the vertex fault tolerant zero forcing number.</p>
       </li>
       <li>
         <title>Project 2: Graph-Based Machine Learning for Image Classification</title>

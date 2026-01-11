@@ -7,7 +7,7 @@
 <!-- with all notation generated, and finally the index. -->
 <backmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="backmatter">
   <title>Backmatter</title>
-
+  
   <!-- <solutions divisional="hint"> <title>Selected Hints</title> </solutions> -->
 
   <!-- <solutions divisional="solution"> <title>Selected Solutions</title> </solutions> -->
@@ -17,6 +17,7 @@
   <!-- <index> <title>Index</title> <index-list/> </index> -->
 
   <colophon>
+    <image source="Logo-full.png" width="60%"/>
     <p> This website was authored in <pretext />. </p>
   </colophon>
 </backmatter>
